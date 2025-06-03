@@ -34,4 +34,3 @@ It is a solo Android app project developed using Java in Android Studio as part 
 ## 📊 Project Presentation
 
 📽️ [Download PowerPoint Presentation](./C231444_AndroidAppDevelopment_Pokejourney.pptx)  
-📄 [View as PDF](./C231444_AndroidAppDevelopment_Pokejourney.pdf)
