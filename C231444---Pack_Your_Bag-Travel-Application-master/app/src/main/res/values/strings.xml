@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">packbag</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="btn_my_selection">My Selection</string>
+    <string name="btn_create_custom_list">Create custom list</string>
+    <string name="btn_reset_to_default">Reset to default</string>
+    <string name="btn_delete_default_data">Delete default data</string>
+    <string name="btn_add_item">Add item to list</string>
+    <string name="btn_exit">Exit</string>
+</resources>

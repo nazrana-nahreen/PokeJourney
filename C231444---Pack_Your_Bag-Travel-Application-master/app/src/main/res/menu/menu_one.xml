@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/btnMySelection"
+        android:title="@string/btn_my_selection"
+        android:icon="@drawable/baseline_check_circle_24"/>
+
+    <item android:id="@+id/btnCustomList"
+        android:title="@string/btn_create_custom_list"
+        android:icon="@drawable/baseline_create_24"/>
+
+    <item android:id="@+id/btnReset"
+        android:title="@string/btn_reset_to_default"
+        android:icon="@drawable/baseline_refresh_24"/>
+
+    <item android:id="@+id/btnDeleteDefault"
+        android:title="@string/btn_delete_default_data"
+        android:icon="@drawable/baseline_delete_24"/>
+
+    <item android:id="@+id/btnExit"
+        android:title="@string/btn_exit"
+        android:icon="@drawable/baseline_exit_to_app_24"/>
+
+</menu>
