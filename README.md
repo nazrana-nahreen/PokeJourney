@@ -1,9 +1,18 @@
-# 📱 PokeJourney
+<h1 align="center">📱 PokeJourney</h1>
+<p align="center"><i>Android Mobile App Development (Java)</i></p>
+<p align="center"><strong>Course:</strong> CBI-017 — under the EDGE (Enhancing Digital Government and Economy) Project</p>
 
-> Android Mobile App Development (Java)  
-> Course: **CBI-017** — under the EDGE (Enhancing Digital Government and Economy) Project
+---
 
-!(Screenshot 2025-07-10 223712.png)
+## 🖼️ App Screenshots
+
+### 🧳 Packing Interface  
+<img src="./Screenshot%202025-07-10%20223712.png" width="500"/>
+
+### 🗺️ Maps View  
+<img src="./Screenshot%202025-07-10%20223737.png" width="500"/>
+<img src="./Screenshot%202025-07-10%20223800.png" width="500"/>
+<img src="./Screenshot%202025-07-10%20223827.png" width="500"/>
 
 ---
 
@@ -33,6 +42,7 @@ It is a solo Android app project developed using Java in Android Studio as part 
 | Google Maps API | For real-time location services |
 
 ---
+
 ## 📊 Project Presentation
 
-📽️ [Download PowerPoint Presentation](./C231444_AndroidAppDevelopment_Pokejourney.pptx)  
+📽️ [Download PowerPoint Presentation](./C231444_AndroidAppDevelopment_Pokejourney.pptx)
