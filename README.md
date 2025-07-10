@@ -5,11 +5,7 @@
 ---
 
 ## 🖼️ App Screenshots
-
-### 🧳 Packing Interface  
 <img src="./Screenshot%202025-07-10%20223712.png" width="500"/>
-
-### 🗺️ Maps View  
 <img src="./Screenshot%202025-07-10%20223737.png" width="500"/>
 <img src="./Screenshot%202025-07-10%20223800.png" width="500"/>
 <img src="./Screenshot%202025-07-10%20223827.png" width="500"/>
